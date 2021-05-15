@@ -1,12 +1,22 @@
 {
   "name": "typescript-crash-course",
   "version": "1.0.0",
-  "description": "",
+  "description": "typescript design patterns",
   "main": "app.js",
+  "keywords": [
+    "typespec",
+    "typescript",
+    "bdd",
+    "behaviour",
+    "driven"
+  ],
+  "homepage": "https://github.com/mbayefaye/typescript-design-pattern",
+  "bugs": "https://github.com/mbayefaye/typescript-design-pattern/issues",
+  "repository": "https://github.com/mbayefaye/typescript-design-pattern",
   "scripts": {
     "start": "lite-server"
   },
-  "author": "",
+  "author": "Mbaye",
   "license": "ISC",
   "dependencies": {
     "lite-server": "^2.6.1"
